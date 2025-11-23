@@ -20,6 +20,7 @@ The workflow consists of three stages:
 │   └── model.py            # 3D CNN Model definition and training loop
 ├── README.md
 └── requirements.txt
+```
 
 
 ## 🛠️ Detailed Usage Guide
